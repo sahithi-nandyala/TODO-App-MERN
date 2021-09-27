@@ -27,7 +27,7 @@ class App extends Component {
             <Link to="/" className="navbar-brand">
               MERN-Stack Todo App
             </Link>
-            <div className="collpase nav-collapse">
+            <div className="collpase navbar-collapse">
               <ul className="navbar-nav mr-auto">
                 <li className="navbar-item">
                   <Link to="/" className="nav-link">Todos</Link>
